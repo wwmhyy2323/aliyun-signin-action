@@ -14,6 +14,6 @@ jobs:
         with:
           REFRESH_TOKENS: c60784067942461fbbecedb919081bee
           GP_TOKEN: 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
-          DO_NOT_REWARD: 'true'
+          #DO_NOT_REWARD: 'true'
           PUSH_TYPES: pushplus
           PUSHPLUS_TOKEN: 5f8ba50e8a9c4065ab39b3c103411704
